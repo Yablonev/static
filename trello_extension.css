@@ -1,3 +1,11 @@
 .list-card.js-member-droppable.ui-droppable:after {
-  content: '100 Tokens'
+  content: '100 Tokens';
+  position: relative;
+  bottom: 4px;
+  left: 0px;
+  color: #6b778c;
+  width: 100%;
+  z-index: 1;
+  display: block;
+  padding-left: 10px;
 }
