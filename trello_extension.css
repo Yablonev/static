@@ -1,0 +1,3 @@
+.list-card.js-member-droppable.ui-droppable:before {
+  content: '100 Tokens'
+}
